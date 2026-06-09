@@ -42,6 +42,6 @@ Passionate QA Engineer with experience in:
 
 ## Contact
 
-LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/satyamsahu95/)
+LinkedIn: [satyam-linkedin-url](https://www.linkedin.com/in/satyamsahu95/)
 
 Email: ssahu7158@gmail.com
